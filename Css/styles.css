@@ -514,7 +514,7 @@ a {
 
 .media__description {
   font-size: 2rem;
-  color: var(--border-color);
+  color: #fff;
 }
 
 .media__image {
