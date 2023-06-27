@@ -1,0 +1,14 @@
+{
+  "name": "the-final-website",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "parcel": "^2.9.3"
+  }
+}
