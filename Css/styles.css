@@ -118,8 +118,17 @@ a {
   padding-top: 0;
 }
 
+.about-text {
+  color: #000;
+  font-size: 3rem;
+}
+
 #about {
   margin-top: 0;
+}
+
+#about-title {
+  color: var(--primary-color);
 }
 
 #meeting {
@@ -130,13 +139,6 @@ a {
   #meeting {
     display: block;
   }
-  /* #meeting-left__block {
-    flex-basis: 100%;
-  }
-  #meeting-right__block {
-    padding-left: 5rem;
-    flex-basis: 100%;
-  } */
 }
 
 #meeting-left__block {
